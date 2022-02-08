@@ -1,0 +1,30 @@
+group_names,P4-EUI Num,P4-Breach%,P4-Deviation
+B4C - BIM Platform,1,100,1.035087719
+B4C - Collaborate,5,0,0.385964912
+B4C - Coordinate,10,30,0.657894737
+BR - Bidding,24,8.333333333,0.096491228
+BR - RiskNet,14,7.142857143,0.280701754
+CR - Docs Core,59,8.474576271,0.228070175
+CR - Docs Workflows,20,10,0.421052632
+CR - Record Consumption,69,17.39130435,0.263157895
+CS - Common Services,54,44.44444444,0.719298246
+CS - Data Delivery,14,21.42857143,0.570175439
+FC - Field Forms,32,31.25,0.535087719
+FC - Field Progress,28,17.85714286,0.5
+FR - Admin,5,80,3.964912281
+FR - Frameworks,3,0,0.473684211
+FW - Forms & Issues,9,55.55555556,1.157894737
+FW - Progress,11,45.45454545,0.789473684
+FW - Standards,2,0,0.412646199
+LM - Project Lifecycle,4,0,0.000730994
+NX - Admin,18,61.11111111,1.473684211
+NX - Frameworks,2,50,0.640350877
+NX - Product Experience,2,0,0.210526316
+PC - Financials,5,20,0.350877193
+PC - Project Management,23,8.695652174,0.438596491
+PY - Closeout,3,0,0.175438596
+PY - Precon & Construction,1,0,0.315789474
+SI - Ecosystem,1,100,3.912280702
+WBP - Classic Products,28,50,1.061403509
+WBP - Quantification,1,0,0.052631579
+WBP - Work Planning & Model Conditioning,29,24.13793103,0.719298246

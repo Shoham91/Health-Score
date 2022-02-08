@@ -1,0 +1,19 @@
+group_names,P1-EUI Num,P1-Breach%,P1-Deviation
+B4C - Coordinate,1,100,113
+BR - RiskNet,1,100,3.166666667
+CR - Docs Core,7,71.42857143,3
+CR - Docs Workflows,3,33.33333333,0.5
+CR - Record Consumption,1,0,0.333333333
+CS - Common Services,4,50,1.583333333
+CS - Data Delivery,1,100,4.666666667
+FC - Field Forms,7,85.71428571,12.16666667
+FC - Field Progress,1,0,0.666666667
+FR - Admin,9,66.66666667,3.833333333
+FR - Frameworks,18,61.11111111,3.333333333
+FW - Standards,10,90,1384.666667
+LM - Project Lifecycle,1,100,2.333333333
+NX - Admin,2,100,126.25
+NX - Frameworks,1,0,0.5
+PC - Project Management,5,60,2.166666667
+PY - Closeout,1,100,3.166666667
+WBP - Classic Products,1,100,203.6666667
